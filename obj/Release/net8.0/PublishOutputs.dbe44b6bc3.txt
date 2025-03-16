@@ -1,0 +1,17 @@
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/MyWebApp01
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/publish/web.config
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/web.config
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/appsettings.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/appsettings.Development.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/appsettings.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/MyWebApp01.deps.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/MyWebApp01.runtimeconfig.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/publish/appsettings.Development.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/publish/appsettings.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/publish/MyWebApp01.deps.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/publish/publish/MyWebApp01.runtimeconfig.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/MyWebApp01.dll
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/MyWebApp01.deps.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/MyWebApp01.runtimeconfig.json
+/Users/admin/coding/net8/MyWebApp01/bin/Release/net8.0/publish/MyWebApp01.pdb

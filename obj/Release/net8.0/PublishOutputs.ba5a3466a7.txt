@@ -1,0 +1,12 @@
+/Users/admin/coding/net8/MyWebApp01/publish/MyWebApp01
+/Users/admin/coding/net8/MyWebApp01/publish/publish/web.config
+/Users/admin/coding/net8/MyWebApp01/publish/appsettings.Development.json
+/Users/admin/coding/net8/MyWebApp01/publish/appsettings.json
+/Users/admin/coding/net8/MyWebApp01/publish/publish/appsettings.Development.json
+/Users/admin/coding/net8/MyWebApp01/publish/publish/appsettings.json
+/Users/admin/coding/net8/MyWebApp01/publish/publish/MyWebApp01.deps.json
+/Users/admin/coding/net8/MyWebApp01/publish/publish/MyWebApp01.runtimeconfig.json
+/Users/admin/coding/net8/MyWebApp01/publish/MyWebApp01.dll
+/Users/admin/coding/net8/MyWebApp01/publish/MyWebApp01.deps.json
+/Users/admin/coding/net8/MyWebApp01/publish/MyWebApp01.runtimeconfig.json
+/Users/admin/coding/net8/MyWebApp01/publish/MyWebApp01.pdb
